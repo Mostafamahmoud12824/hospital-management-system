@@ -1,4 +1,4 @@
-# hospital-management-systثة
+# hospital-management-system
 # Scope  of the  Project:- 
 1) Information  about  Patients  is  done  by  just  writing  the  Patients  name,  age  and gender. Whenever the  Patient comes up his information is stored freshly. 2)  Bills  are  generated  by  recording  price  for  each  facility  provided  to  Patient  on  a separate  sheet and  at last  they  all  are  summed up.   
 2)  
