@@ -1,12 +1,13 @@
 # hospital-management-system
 # Scope  of the  Project:- 
-1) Information  about  Patients  is  done  by  just  writing  the  Patients  name,  age  and gender. Whenever the  Patient comes up his information is stored freshly. 2)  Bills  are  generated  by  recording  price  for  each  facility  provided  to  Patient  on  a separate  sheet and  at last  they  all  are  summed up.     
-2)  Diagnosis  information  to  patients  is  generally  recorded  on  the  document,  which contains  Patient  information.  It  is  destroyed  after  some  time  period  to  decrease the paper load in the  office.
-3) Immunization  records  of  children  are  maintained  in  pre-formatted  sheets,  which are  kept  in a  file.   
-4) Information  about  various  diseases  is  not  kept  as  any  document.  Doctors themselves do this job  by  remembering  various medicines. All  this  work  is  done  manually  by  the  receptionist  and  other  operational  staff  and  lot  of papers  are  needed  to  be  handled  and  taken  care  of.  Doctors  have  to  remember  various medicines  available  for  diagnosis  and  sometimes  miss  better  alternatives  as  they  can’t remember them at that time.   
-5)  MODULES: The  entire  project mainly  consists  of 7  modules, which are 
-6)  Admin  module
-7)  User module (patient)
+1) Information  about  Patients  is  done  by  just  writing  the  Patients  name,  age  and gender. Whenever the  Patient comes up his information is stored freshly. 
+2) Bills  are  generated  by  recording  price  for  each  facility  provided  to  Patient  on  a separate  sheet and  at last  they  all  are  summed up.     
+3)  Diagnosis  information  to  patients  is  generally  recorded  on  the  document,  which contains  Patient  information.  It  is  destroyed  after  some  time  period  to  decrease the paper load in the  office.
+4) Immunization  records  of  children  are  maintained  in  pre-formatted  sheets,  which are  kept  in a  file.   
+5) Information  about  various  diseases  is  not  kept  as  any  document.  Doctors themselves do this job  by  remembering  various medicines. All  this  work  is  done  manually  by  the  receptionist  and  other  operational  staff  and  lot  of papers  are  needed  to  be  handled  and  taken  care  of.  Doctors  have  to  remember  various medicines  available  for  diagnosis  and  sometimes  miss  better  alternatives  as  they  can’t remember them at that time.   
+6)  MODULES: The  entire  project mainly  consists  of 7  modules, which are 
+7)  Admin  module
+8)  User module (patient)
   Doctor module   
   Nurse module
   Pharmacist  module 
